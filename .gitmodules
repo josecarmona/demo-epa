@@ -12,3 +12,8 @@
 	path = appits/IT-Sales-Merchant-Odoo
 	url = git@github.com:appits/IT-Sales-Merchant-Odoo.git
 	branch = development
+
+[submodule "appits/IT-Sales-Standar-Localizado"]
+	path = appits/IT-Sales-Standar-Localizado
+	url = git@github.com:appits/IT-Sales-Standar-Localizado.git
+	branch = development
