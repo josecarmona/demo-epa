@@ -7,3 +7,8 @@
 	path = appits/IT-Sales-fiscal-print-front-end
 	url = git@github.com:appits/IT-Sales-fiscal-print-front-end.git
 	branch = development
+
+[submodule "appits/IT-Sales-Merchant-Odoo"]
+	path = appits/IT-Sales-Merchant-Odoo
+	url = git@github.com:appits/IT-Sales-Merchant-Odoo.git
+	branch = development
