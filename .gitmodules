@@ -2,3 +2,8 @@
 	path = appits/localizacionO15
 	url = git@github.com:appits/localizacionO15.git
 	branch = development
+
+[submodule "appits/IT-Sales-fiscal-print-front-end"]
+	path = appits/IT-Sales-fiscal-print-front-end
+	url = git@github.com:appits/IT-Sales-fiscal-print-front-end.git
+	branch = development
